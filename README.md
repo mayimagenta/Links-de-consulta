@@ -1,7 +1,7 @@
 # Links-de-consulta
 Listado de links para referencias y aprendizaje de Front End.
-## lINKS ##
-1. p5 referencia:[https://p5js.org/es/reference/](url)
+## LINKS ##
+1. p5 reference: [https://p5js.org/es/reference/](url)
 2. HTML Formatter: [https://webformatter.com/html](url)
 3. Frontend Developer Guide: [https://roadmap.sh/frontend](url)
 4. JSON Validator: [https://jsonlint.com/](url)
