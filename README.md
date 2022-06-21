@@ -14,3 +14,4 @@ Listado de links para referencias y aprendizaje de Front End.
 11. [HTML for beginners](https://html.com/)
 12. [Mozilla Frontend guide](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 13. [RAWGraphs](https://app.rawgraphs.io/)
+14. [Códigos Colores](https://htmlcolorcodes.com/es/nombres-de-los-colores/)
